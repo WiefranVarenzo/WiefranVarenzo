@@ -16,6 +16,7 @@
 - 📚 Third-year university student specializing in **Data Science**, with a passion for building scalable Machine Learning solutions.
 - 📱 Proficient in developing **Android applications**, combining UX/UI principles with modern technologies.
 - 🛠️ Actively contributing to open-source projects and developing web apps using **Vue.js** and **Tailwind CSS**.
+- 🎨 Skilled in designing user-friendly interfaces using **Figma** for UI/UX projects.
 - 💡 Striving to enhance user experiences through well-designed interfaces, as demonstrated in my **MangaPlus Android UI design project**.
 
 ---
@@ -51,6 +52,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ---
 
@@ -62,29 +65,28 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wiefranvarenzo&" alt="wiefranvarenzo" /></p>
 
-
 ---
 
 ### 📌 Pinned Projects
 
-#### 1. **[Stock Market Prediction App](https://github.com/WiefranVarenzo/stock-market-prediction)**
-A machine learning application for predicting stock market trends using **TensorFlow** and **Streamlit**.
+#### 1. **[Project 1 Name](https://github.com/WiefranVarenzo/repo-1)**
+_Description for the first pinned project._
 
-#### 2. **[MangaPlus Android UI Design](https://github.com/WiefranVarenzo/mangaplus-ui-design)**
-A user-centered Android app design project enhancing user experience for manga readers.
+#### 2. **[Project 2 Name](https://github.com/WiefranVarenzo/repo-2)**
+_Description for the second pinned project._
 
-#### 3. **[Weather App](https://github.com/WiefranVarenzo/weather-app)**
-A weather forecasting web app built with **Vue.js**, **Tailwind CSS**, and **JavaScript**.
+#### 3. **[Project 3 Name](https://github.com/WiefranVarenzo/repo-3)**
+_Description for the third pinned project._
 
-#### 4. **[Financial Dashboard](https://github.com/WiefranVarenzo/financial-dashboard)**
-An interactive financial dashboard for tracking stock market performance using **Pandas**, **Seaborn**, and **Matplotlib**.
+#### 4. **[Project 4 Name](https://github.com/WiefranVarenzo/repo-4)**
+_Description for the fourth pinned project._
 
 ---
 
 ### 🚀 Career Aspirations
 
 - Eager to collaborate with organizations leveraging **AI and Machine Learning** to drive innovation in financial technology.
-- Seeking opportunities to enhance skills in **Natural Language Processing**, **Deep Learning**, and **Android Development**.
+- Seeking opportunities to enhance skills in **Generative AI/LLM**, **Natural Language Processing**, **Deep Learning**, and **Android Development**.
 - Passionate about creating impactful, user-centric applications that bridge the gap between technology and everyday needs.
 
 ---
