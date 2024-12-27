@@ -65,24 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WiefranVarenzo&show_icons=true&layout=compact" alt="Top Languages">
 </p>
 
----
-
-### 📌 Pinned Projects
-
-#### 1. **[TellMe](https://github.com/WiefranVarenzo/TellMe)**
-Menggunakan Large Language Model dengan melakukan fine-tuning pada dataset sentiment emosi dari twitter. Dapat menganalisa 6 jenis sentimen emosi dari video yang di upload. Model dan API yang dipakai adalah Bert dan Whisper Ai
-
-#### 2. **[Project 2 Name](https://github.com/WiefranVarenzo/repo-2)**
-_Description for the second pinned project._
-
-#### 3. **[Project 3 Name](https://github.com/WiefranVarenzo/repo-3)**
-_Description for the third pinned project._
-
-#### 4. **[Project 4 Name](https://github.com/WiefranVarenzo/repo-4)**
-_Description for the fourth pinned project._
-
----
-
 ### 🚀 Career Aspirations
 
 - Eager to collaborate with organizations leveraging **AI and Machine Learning** to drive innovation in financial technology.
