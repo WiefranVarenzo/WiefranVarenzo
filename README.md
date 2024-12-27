@@ -14,9 +14,7 @@
 - 🌟 Currently exploring opportunities to create **AI/ML projects in the financial sector**, focusing on stock market predictions and investment analysis.
 - 📚 Third-year university student specializing in **Data Science**, with a passion for building scalable Machine Learning solutions.
 - 📱 Proficient in developing **Android applications**, combining UX/UI principles with modern technologies.
-- 🛠️ Actively contributing to open-source projects and developing web apps using **Vue.js** and **Tailwind CSS**.
 - 🎨 Skilled in designing user-friendly interfaces using **Figma** for UI/UX projects.
-- 💡 Striving to enhance user experiences through well-designed interfaces, as demonstrated in my **MangaPlus Android UI design project**.
 
 ---
 
