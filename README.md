@@ -69,7 +69,7 @@
 
 ### 📌 Pinned Projects
 
-#### 1. **[TellMe](https://github.com/WiefranVarenzo/repo-1](https://github.com/WiefranVarenzo/TellMe)**
+#### 1. **[TellMe](https://github.com/WiefranVarenzo/TellMe)**
 Menggunakan Large Language Model dengan melakukan fine-tuning pada dataset sentiment emosi dari twitter. Dapat menganalisa 6 jenis sentimen emosi dari video yang di upload. Model dan API yang dipakai adalah Bert dan Whisper Ai
 
 #### 2. **[Project 2 Name](https://github.com/WiefranVarenzo/repo-2)**
