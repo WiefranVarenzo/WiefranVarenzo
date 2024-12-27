@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wiefran Varenzo!</h1>
-<h3 align="center">A Passionate Data Scientist, SOFTWARE DEVELOPER AND Machine Learning Engineer</h3>
+<h3 align="center">A Passionate Data Scientist, Software Developer, and Machine Learning Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/WiefranVarenzo" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" alt="GitHub"></a>
