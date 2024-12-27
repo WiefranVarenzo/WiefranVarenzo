@@ -5,7 +5,8 @@
   <a href="https://github.com/WiefranVarenzo" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" alt="GitHub"></a>
   <a href="https://linkedin.com/in/wiefran-varenzo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/varenzowie/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat&logo=instagram" alt="Instagram"></a>
-  <a href="mailto:varenzo.wiefran@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-orange?style=flat&logo=gmail" alt="Email"></a>
+  <a href="mailto:varenzo.wiefran@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact-orange?style=flat&logo=gmail" alt="Email"></a>
 </p>
 
 ---
