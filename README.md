@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wiefran Varenzo!</h1>
-<h3 align="center">A Passionate Data Scientist and Machine Learning Engineer</h3>
+<h3 align="center">A Passionate Data Scientist and Aspiring Machine Learning Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/WiefranVarenzo" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" alt="GitHub"></a>
@@ -14,6 +14,7 @@
 
 - 🌟 Currently exploring opportunities to create **AI/ML projects in the financial sector**, focusing on stock market predictions and investment analysis.
 - 📚 Third-year university student specializing in **Data Science**, with a passion for building scalable Machine Learning solutions.
+- 📱 Proficient in developing **Android applications**, combining UX/UI principles with modern technologies.
 - 🛠️ Actively contributing to open-source projects and developing web apps using **Vue.js** and **Tailwind CSS**.
 - 💡 Striving to enhance user experiences through well-designed interfaces, as demonstrated in my **MangaPlus Android UI design project**.
 
@@ -33,13 +34,20 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 #### Frameworks & Libraries:
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-6A5ACD?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 #### Tools:
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -58,12 +66,28 @@
 
 ---
 
+### 📌 Pinned Projects
+
+#### 1. **[Stock Market Prediction App](https://github.com/WiefranVarenzo/stock-market-prediction)**
+A machine learning application for predicting stock market trends using **TensorFlow** and **Streamlit**.
+
+#### 2. **[MangaPlus Android UI Design](https://github.com/WiefranVarenzo/mangaplus-ui-design)**
+A user-centered Android app design project enhancing user experience for manga readers.
+
+#### 3. **[Weather App](https://github.com/WiefranVarenzo/weather-app)**
+A weather forecasting web app built with **Vue.js**, **Tailwind CSS**, and **JavaScript**.
+
+#### 4. **[Financial Dashboard](https://github.com/WiefranVarenzo/financial-dashboard)**
+An interactive financial dashboard for tracking stock market performance using **Pandas**, **Seaborn**, and **Matplotlib**.
+
+---
+
 ### 🚀 Career Aspirations
 
 - Eager to collaborate with organizations leveraging **AI and Machine Learning** to drive innovation in financial technology.
-- Seeking opportunities to enhance skills in **Natural Language Processing** and **Deep Learning**, with a focus on real-world applications.
+- Seeking opportunities to enhance skills in **Natural Language Processing**, **Deep Learning**, and **Android Development**.
 - Passionate about creating impactful, user-centric applications that bridge the gap between technology and everyday needs.
 
 ---
 
-*Let’s connect and make the future intelligent together!*
+*Let’s connect and build the future together!*
