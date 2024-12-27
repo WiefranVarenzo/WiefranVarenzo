@@ -69,7 +69,7 @@
 
 ### 📌 Pinned Projects
 
-#### 1. **[Project 1 Name](https://github.com/WiefranVarenzo/repo-1)**
+#### 1. **[Project 1 Name]([https://github.com/WiefranVarenzo/repo-1](https://github.com/WiefranVarenzo/TellMe))**
 _Description for the first pinned project._
 
 #### 2. **[Project 2 Name](https://github.com/WiefranVarenzo/repo-2)**
