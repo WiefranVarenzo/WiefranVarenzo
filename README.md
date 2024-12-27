@@ -55,11 +55,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WiefranVarenzo&show_icons=true&theme=default" alt="GitHub Stats">
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WiefranVarenzo&show_icons=true&layout=compact" alt="Top Languages">
 </p>
