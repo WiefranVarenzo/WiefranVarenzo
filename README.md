@@ -59,11 +59,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WiefranVarenzo&show_icons=true&layout=compact" alt="Top Languages">
-</p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wiefranvarenzo&" alt="wiefranvarenzo" /></p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wiefranvarenzo&" alt="wiefranvarenzo" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WiefranVarenzo&show_icons=true&layout=compact" alt="Top Languages">
+</p>
 
 ---
 
@@ -86,7 +86,7 @@ _Description for the fourth pinned project._
 ### 🚀 Career Aspirations
 
 - Eager to collaborate with organizations leveraging **AI and Machine Learning** to drive innovation in financial technology.
-- Seeking opportunities to enhance skills in **Generative AI/LLM**, **Natural Language Processing**, **Deep Learning**, and **Android Development**.
+- Seeking opportunities to enhance skills in **Natural Language Processing**, **Deep Learning**, and **Android Development**.
 - Passionate about creating impactful, user-centric applications that bridge the gap between technology and everyday needs.
 
 ---
